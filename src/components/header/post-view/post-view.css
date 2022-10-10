@@ -1,0 +1,23 @@
+.header-content{
+    margin: 5% 19%;
+    width: 49.9%;
+    border: 2px solid black;
+}
+#more-option-image{
+    width: 8%;
+    height: 2%;
+    padding-left: 81%;
+    padding-top: 6px;
+}
+.head{
+    display: flex;
+}
+#head-1{
+    margin-left: 20px;
+}
+.content img{
+    width: 50%;
+    margin-left: 19%;
+    margin-top: -96px;
+    border: 1px solid black;
+}
